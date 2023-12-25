@@ -4,7 +4,7 @@
 
 ### learning:
 
-![image](https://github.com/trailios/trailios/assets/154281648/3341fdc4-6b6f-401c-b376-47475a8a820a)
+![image](https://cdn.discordapp.com/attachments/1184913288421720094/1188978534195150918/k9SVpwF.png?ex=659c7d8c&is=658a088c&hm=4aa1b2830c6b7b070b87f8728709284e59dbac804dcd2f7e9cb1e8fddfb309af&)
 
 ## Discord status:
 ![](https://api.status.gg/discord/1137484045501092012?width=526&theme%5Bbackground%5D%5Bprimary%5D=02194f&theme%5Bbackground%5D%5Bsecondary%5D=02194f&theme%5Btext%5D%5Bprimary%5D=f70909&theme%5Btext%5D%5Bsecondary%5D=f70909&theme%5Blogo%5D=02194f&border%5Bcolor%5D=052265&border%5Bradius%5D=20&border%5Bwidth%5D=4)
