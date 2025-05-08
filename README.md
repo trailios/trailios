@@ -1,1 +1,1 @@
-![](https://api.status.gg/discord/1137484045501092012?width=526&theme%5Bbackground%5D%5Bprimary%5D=02194f&theme%5Bbackground%5D%5Bsecondary%5D=02194f&theme%5Btext%5D%5Bprimary%5D=f70909&theme%5Btext%5D%5Bsecondary%5D=f70909&theme%5Blogo%5D=02194f&border%5Bcolor%5D=052265&border%5Bradius%5D=20&border%5Bwidth%5D=4)
+ok
