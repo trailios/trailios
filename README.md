@@ -36,7 +36,6 @@ stack = [
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=trailios&theme=matrix&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=trailios&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trailios&layout=compact&theme=matrix&hide_border=true" alt="Top Langs" />
 </p>
