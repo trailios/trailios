@@ -7,9 +7,7 @@
 
 > *"The quieter you become, the more you are able to hear."*  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Matrix Rain" width="100%" />
-</p>
+![](https://komarev.com/ghpvc/?username=traili)
 
 ---
 
