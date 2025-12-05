@@ -1,5 +1,5 @@
 <!-- 🔹 Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=print(%22Hello%2C+World%22);Python+since+age+12;Automation+%7C+Reverse+Engineering;Funcaptcha+R%26D+%7C+Arkoselabs;Always+Learning...;Always+Breaking...;Always+Building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=print(%22Hello%2C+World%22);Python+since+age+12;Funcaptcha+R%26D+%7C+Arkoselabs;Always+Learning...;Always+Breaking...;Always+Building...)](https://git.io/typing-svg)
 
 ---
 
